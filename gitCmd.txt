@@ -1,0 +1,4 @@
+1. create direction(folder) => mkdir (folder-name)
+2.change direction =>  cd (your direction)
+3.create new file => touch (filenmae, index.html)
+4. get file =>  gedit (filenasme) 
