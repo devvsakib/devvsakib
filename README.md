@@ -24,9 +24,6 @@ I'm focused on frontend development, so here is a list of technologies I use or 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvsakib&layout=compact)](https://github.com/devvsakib/github-readme-stats)
-
-
 ### 💬 Let's connect
 
 Feel free to contact me on these social networks.
@@ -40,6 +37,9 @@ Feel free to contact me on these social networks.
 
 ![Stats](./profile-3d-contrib/profile-green-animate.svg)
 
+
+### Top lang use
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvsakib&layout=compact)](https://github.com/devvsakib/github-readme-stats)
 <!---
 devvsakib/devvsakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
