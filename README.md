@@ -13,11 +13,11 @@
 <br>
 <br>
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
+
 I'm focused on frontend development, so here is a list of technologies I use or have good experience with.
-![dafdsf](https://user-images.githubusercontent.com/88339569/187266987-53944887-f5eb-4a13-b113-1e6bf03dd9f0.svg)
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,nextjs,vercel,graphql,apollo,firebase,bash,git,github,webpack,vite,rollupjs&perline=10)](https://skillicons.dev)
 
 
 
