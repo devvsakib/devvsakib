@@ -22,6 +22,9 @@ I'm focused on frontend development, so here is a list of technologies I use or 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,nextjs,graphql,firebase,bash,git,github,webpack,vite,php,python,django&perline=10)](https://skillicons.dev)
 
+### 🛠️ CMS
+[![My Skills](https://skillicons.dev/icons?i=wordpeess&perline=10)](https://skillicons.dev)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib&show_icons=true&theme=radical)
 
 
