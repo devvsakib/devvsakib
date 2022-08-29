@@ -21,7 +21,7 @@ I'm focused on frontend development, so here is a list of technologies I use or 
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib)](https://github.com/devvsakib/github-readme-stats)
 
 
 
