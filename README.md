@@ -24,7 +24,7 @@ I'm focused on frontend development, so here is a list of technologies I use or 
 
 ### 🛠️ CMS Pro
 [![My Skills](https://skillicons.dev/icons?i=wordpress,shopify,joomla&perline=10)](https://skillicons.dev)
-
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib&show_icons=true&theme=radical)
 
 
