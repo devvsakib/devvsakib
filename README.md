@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @devvsakib
+### 💡‍ About
+
+I'm a frontend developer with backend experience. I really like to share knowledge and experience to help others become better or deal with career or tech problems. I'm happy to communicate and meet new people, so feel free to reach out to me.
+- 👋 I’m Sakib Ahmed
 - 💞️ I’m looking to collaborate on Frontend Web Dev
 - 📫 devvsakib@gmail.com
 
@@ -21,9 +24,6 @@ I'm focused on frontend development, so here is a list of technologies I use or 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib&show_icons=true&theme=radical)
-
-
 ### 💬 Let's connect
 
 Feel free to contact me on these social networks.
@@ -39,7 +39,7 @@ Feel free to contact me on these social networks.
 
 
 ### Top lang use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvsakib&layout=compact)](https://github.com/devvsakib/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvsakib&layout=compact)](https://github.com/devvsakib/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib&show_icons=true&theme=radical)
 <!---
 devvsakib/devvsakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
