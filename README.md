@@ -26,6 +26,7 @@ I'm focused on frontend development, so here is a list of technologies I use or 
 [![My Skills](https://skillicons.dev/icons?i=wordpress,shopify,joomla&perline=10)](https://skillicons.dev)
 ---
 ![devvsakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib&show_icons=true&theme=radical)
+<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devvsakib&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/> </div>
 
 
 
