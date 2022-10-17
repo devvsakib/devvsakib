@@ -44,7 +44,7 @@ Feel free to contact me on these social networks.
 ### Top lang use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvsakib&layout=compact)](https://github.com/devvsakib/github-readme-stats) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devvsakib&label=Profile%20views&color=0e75b6&style=flat" alt="devvsakib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devvsakib&label=Visitors&color=0e75b6&style=flat" alt="devvsakib" /> </p>
 <!---
 devvsakib/devvsakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
