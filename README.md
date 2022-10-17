@@ -39,14 +39,14 @@ Feel free to contact me on these social networks.
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@devvsakib)
 
 ---
-
+## Building Community
+DISCORD - [JOIN](https://discord.com/invite/6XRTeHRxWV)
 
 ### Top lang use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvsakib&layout=compact)](https://github.com/devvsakib/github-readme-stats) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devvsakib&label=Visitors&color=0e75b6&style=flat" alt="devvsakib" /> </p>
-## BUILDING OUR COMMMUNITY
-DISCORD - [JOIN](https://discord.gg/6XRTeHRxWV)
+
 <!---
 devvsakib/devvsakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
