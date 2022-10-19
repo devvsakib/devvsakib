@@ -1,6 +1,6 @@
 ### 💡‍ About
 
-I'm a frontend developer with backend experience. I really like to share knowledge and experience to help others become better or deal with career or tech problems. I'm happy to communicate and meet new people, so feel free to reach out to me.
+I'm a Frontend developer with Backend experience. I really like to share knowledge and experience to help others become better or deal with career or tech problems. I'm happy to communicate and meet new people, so feel free to reach out to me.
 - 👋 I’m Sakib Ahmed
 - 💞️ I’m looking to collaborate on Frontend Web Dev
 - 📫 devvsakib@gmail.com
@@ -39,7 +39,7 @@ Feel free to contact me on these social networks.
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@devvsakib)
 
 ---
-## Building Community
+## Building Community for Web Dev
 DISCORD - [JOIN](https://discord.com/invite/6XRTeHRxWV)
 
 ### Top lang use
