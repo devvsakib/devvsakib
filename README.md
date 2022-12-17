@@ -3,7 +3,7 @@
 
 I'm a Frontend developer with Backend experience. I really like to share knowledge and experience to help others become better or deal with career or tech problems. I'm happy to communicate and meet new people, so feel free to reach out to me.
 - 👋 I’m Sakib Ahmed
-- 💞️ I’m looking to collaborate on Frontend Web Dev
+- 💻 Frontend Web Dev
 - 📫 devvsakib@gmail.com
 
 =========================================================
