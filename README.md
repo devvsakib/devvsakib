@@ -1,16 +1,19 @@
 <!-- # <p align="center">***OFFLINE, GRADUATION TIME. Wish Me LUCK***</p> 2022 12 17 -->
 ### 💡‍ About
 
-I'm a Frontend developer with Backend experience. I really like to share knowledge and experience to help others become better or deal with career or tech problems. I'm happy to communicate and meet new people, so feel free to reach out to me.
+### Hi!
+
 - 👋 I’m Sakib Ahmed
-- 💻 Frontend Web Dev
+- 💻 Frontend Enginrer
 - 🧩 Open Source
 - 📫 devvsakib@gmail.com
-<p align="left">
+ <br>
+ 
+<p align="left" width="10px">
  <a href="https://www.buymeacoffee.com/devvsakib"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=devvsakib&button_colour=07C5D1&font_colour=ffffff&font_family=Poppins&border_colour=AD30FA&coffee_colour=AD30FA" /></a>
 </p>
 
-=========================================================
+============================================================================
 
 
 
@@ -21,15 +24,25 @@ I'm a Frontend developer with Backend experience. I really like to share knowled
 <br>
 <br>
 
-### 🛠️ Languages and Tools
+<table>
+  <tr>
+<td>
+ 🛠️ Languages and Tools
 
-I'm focused on frontend development, so here is a list of technologies I use or have good experience with.
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,nextjs,firebase,bash,git,github,webpack,cpp,php,mysql,python,django&perline=10)](https://skillicons.dev)
-
-### 🛠️ CMS Pro
+I'm focused on frontend development, so here is a list of technologies I use or have good experience with. 
+ <br>
+ 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,nextjs,firebase,bash,git,github,webpack,cpp,php,mysql,python,django&perline=10)](https://skillicons.dev) 
+</td>
+<td>
+ 
+🛠️ CMS Pro
 [![My Skills](https://skillicons.dev/icons?i=wordpress,shopify,joomla&perline=10)](https://skillicons.dev)
----
+ 
+</td> 
+  </tr>
+ </table>
+
 
 ### Activities
 <table border="0px" align="center"><tr><td>
@@ -44,7 +57,6 @@ I'm focused on frontend development, so here is a list of technologies I use or 
   
   </td></td>
 </table>
----
 
 ## Building Community for Web Dev
 DISCORD - [JOIN](https://discord.com/invite/6XRTeHRxWV)
