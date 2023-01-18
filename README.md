@@ -9,9 +9,6 @@
 - 📫 devvsakib@gmail.com
  <br>
  
-<p align="left" width="10px">
- <a href="https://www.buymeacoffee.com/devvsakib"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=devvsakib&button_colour=07C5D1&font_colour=ffffff&font_family=Poppins&border_colour=AD30FA&coffee_colour=AD30FA" /></a>
-</p>
 
 ============================================================================
 
