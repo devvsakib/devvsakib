@@ -26,7 +26,6 @@
 <td>
  🛠️ Languages and Tools
 
-I'm focused on frontend development, so here is a list of technologies I use or have good experience with. 
  <br>
  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,nextjs,firebase,bash,git,github,webpack,cpp,php,mysql,python,django&perline=10)](https://skillicons.dev) 
