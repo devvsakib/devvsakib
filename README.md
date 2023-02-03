@@ -43,9 +43,11 @@
 ### Activities
 <table border="0px" align="center"><tr><td>
   <div>
-    
+    <p style="margin-bottom:0">
+     
   ![devvsakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib&show_icons=true&theme=radical)
-    
+   
+   </p>
   </div>
 </td><td>
   
