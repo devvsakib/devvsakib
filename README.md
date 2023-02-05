@@ -1,7 +1,5 @@
 <!-- # <p align="center">***OFFLINE, GRADUATION TIME. Wish Me LUCK***</p> 2022 12 17 -->
-### 💡‍ About
-
-### Hi!
+### 💡‍ Hi!
 
 - 👋 I’m Sakib Ahmed
 - 💻 Frontend Enginrer
