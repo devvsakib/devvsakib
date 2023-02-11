@@ -2,7 +2,7 @@
 ### 💡‍ Hi!
 
 - 👋 I’m Sakib Ahmed
-- 💻 Frontend Enginrer
+- 💻 Frontend Engineer
 - 🧩 Open Source
 - 📫 devvsakib@gmail.com
  <br>
