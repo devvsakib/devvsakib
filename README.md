@@ -92,8 +92,9 @@ Feel free to contact me on these social networks.
 devvsakib/devvsakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
 
-### Blog
+## Blogs
 1. [Tips: How to get last element of an array in javascipt](https://dev.to/devvsakib/tips-how-to-get-last-element-of-an-array-in-javascipt-3k2j)
 2. [Top 10 React Interview Question!](https://dev.to/devvsakib/top-10-react-interview-question--584n)
 3. [Fetch API in JavaScript](https://dev.to/devvsakib/fetch-api-in-javascript-54o6)
