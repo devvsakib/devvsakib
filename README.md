@@ -1,11 +1,23 @@
 <!-- # <p align="center">***OFFLINE, GRADUATION TIME. Wish Me LUCK***</p> 2022 12 17 -->
+
+
 ## 💡‍ Hi!
+<table border="0" >
+<tr>
+<td width="50%">
 
 - 👋 I’m Sakib Ahmed
 - 💻 Frontend Engineer
 - 🧩 Open Source
 - 📫 devvsakib@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devvsakib&label=Visitors&color=yellow&style=flat" alt="devvsakib" /></p>
+
+</td>
+<td width="50%">
+<p align='center'> <img alt="HTML" src="./cat.gif" height="" width="300" alt="coding cat"> </p>
+</td>
+</tr>
+</table>
  <br>
  
 ---
