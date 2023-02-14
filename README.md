@@ -45,7 +45,7 @@ Feel free to contact me on these social networks.
 
 </td><td align="center" valign="top" width="25%">
  
-### 🛠️ CMS Pro 
+### 🛠️ CMS Expert
  
  <br> 
  
