@@ -8,10 +8,15 @@
 - 🧩 Open Source
 - 📁 Follow me to get Opensource projects.
 - 📫 devvsakib@gmail.com
-<div align="center" display="flex"> <img src="https://komarev.com/ghpvc/?username=devvsakib&label=Visitors&color=yellow&style=flat" alt="devvsakib" />  
+<div align="center" display="flex"> 
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devvsakib) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvsakib/) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@devvsakib)
-</div>
+### 💬 Let's connect
+Feel free to contact me on these social networks.
+
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devvsakib) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvsakib/) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@devvsakib)
+
+  <p style="display:block"><img src="https://komarev.com/ghpvc/?username=devvsakib&label=Visitors&color=yellow&style=flat") /></p>  
+ </div>
 
 </td><td width="30%">
 
@@ -65,7 +70,7 @@
  <tr>
   <td colspan="2" style='text-align="center"'>
        
-### <p align="center">Top lang use </p>
+### <p align="center">Top Language I Use </p>
    
    <div align="center">
 
@@ -78,17 +83,22 @@
 <!-- [Test](https://github.com/devvsakib/github-readme-stats) -->
 </table>
 
+<br>
+
 ### Community for Web Dev
 DISCORD - [JOIN](https://discord.com/invite/6XRTeHRxWV)
 
 [![@devvsakib's Holopin board](https://holopin.me/devvsakib)](https://holopin.io/@devvsakib)
  
-### Github Trophy
- <div style="width:'100%'">
-  <img src="https://github-profile-trophy.vercel.app/?username=devvsakib&column=6&theme=onedark" align="left"/>
-</div>
+ <br>
 
+## Github Trophy
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devvsakib&column=6&theme=onedark" width="70%"/>
+</p>
+
+<!-- 
 ### 💬 Let's connect
 
 Feel free to contact me on these social networks.
@@ -97,13 +107,20 @@ Feel free to contact me on these social networks.
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devvsakib)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvsakib/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@devvsakib)
-</p>
-<br>
+</p> -->
+
 <br>
 
+<br>
+
+
 ## Blogs
+<div>
+
 1. [Tips: How to get last element of an array in javascipt](https://dev.to/devvsakib/tips-how-to-get-last-element-of-an-array-in-javascipt-3k2j)
 2. [Top 10 React Interview Question!](https://dev.to/devvsakib/top-10-react-interview-question--584n)
 3. [Fetch API in JavaScript](https://dev.to/devvsakib/fetch-api-in-javascript-54o6)
 4. [Top 5 Frontend Interview questions you must know! Ans with Example ](https://dev.to/devvsakib/top-5-frontend-interview-questions-you-must-know-ans-with-example-5cnm)
 5. [How to start a coding YouTube Channel](http://devvsakib.me/how-to-start-a-coding-youtube-channel)
+
+</div>
