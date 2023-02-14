@@ -8,15 +8,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devvsakib&label=Visitors&color=yellow&style=flat" alt="devvsakib" /></p>
  <br>
  
-
-============================================================================
-
+---
 
 
+<!-- 
 <a href="https://app.daily.dev/devvsakib">
 <img src="https://api.daily.dev/devcards/a709fe2da0104532bac3a421cdec7139.png?r=8lg" width="200" alt="Sakib Ahmed's Dev Card"/>
 </a>
-
+ -->
 <br>
 <br>
 
