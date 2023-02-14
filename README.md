@@ -35,25 +35,29 @@ Feel free to contact me on these social networks.
 <br>
 <br>
 
-<table>
-  <tr>
-<td>
- 🛠️ Languages and Tools
-<br> <br>
+<table><tr><td align="center" valign="top" width="70%">
+
+### 🛠️ Languages and Tools
  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,nextjs,firebase,webpack,java,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github&perline=10)](https://skillicons.dev) 
-</td>
-<td>
+<br> 
  
-🛠️ CMS Pro <br> <br>
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,nextjs,firebase,webpack,java,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github&perline=15) 
+
+</td><td align="center" valign="top" width="25%">
+ 
+### 🛠️ CMS Pro 
+ 
+ <br> 
+ 
 [![My Skills](https://skillicons.dev/icons?i=wordpress,shopify,joomla&perline=10)](https://skillicons.dev)
  
 </td> 
   </tr>
  </table>
 
+<br>
 
-### Activities
+### Activities on GitHUb
 <table border="0px" align="center"><tr><td>
   <div>
     <p style="margin-bottom:0">
