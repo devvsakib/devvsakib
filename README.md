@@ -1,26 +1,25 @@
 <!-- # <p align="center">***OFFLINE, GRADUATION TIME. Wish Me LUCK***</p> 2022 12 17 -->
+<table><tr><td valign="top" width="70%">
 
+## 👋 I’m Sakib Ahmed
 
-## 💡‍ Hi!
-<table border="0" >
-<tr>
-<td width="50%">
-
-- 👋 I’m Sakib Ahmed
-- 💻 Frontend Engineer
+- 💻 I'm a Frontend Developer
+- 🆕 Exploring new technologies and developing software solutions and quick hacks.
 - 🧩 Open Source
+- 📁 Follow me to get Opensource projects.
 - 📫 devvsakib@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devvsakib&label=Visitors&color=yellow&style=flat" alt="devvsakib" /></p>
+<div align="center" display="flex"> <img src="https://komarev.com/ghpvc/?username=devvsakib&label=Visitors&color=yellow&style=flat" alt="devvsakib" />  
 
-</td>
-<td width="50%">
-<p align='center'> <img alt="HTML" src="./cat.gif" height="" width="300" alt="coding cat"> </p>
-</td>
-</tr>
-</table>
- <br>
- 
----
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devvsakib) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvsakib/) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@devvsakib)
+</div>
+
+</td><td width="30%">
+
+<img src="./cat.gif" alt="coding cat"> 
+
+</tr></tr></table> 
+
+
 
 
 <!-- 
