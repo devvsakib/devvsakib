@@ -15,7 +15,13 @@ Feel free to contact me on these social networks.
 
  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devvsakib) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvsakib/) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@devvsakib)
 
-  <p style="display:block"><img src="https://komarev.com/ghpvc/?username=devvsakib&label=Visitors&color=yellow&style=flat") /></p>  
+![](https://komarev.com/ghpvc/?username=devvsakib&style=flat-square&color=yellow)
+![GitHub User's stars](https://img.shields.io/github/stars/devvsakib?label=%E2%AD%90GitHub%20stars&style=flat-square)
+  
+  </p>  
+  
+  
+ 
  </div>
 
 </td><td width="30%">
@@ -62,25 +68,21 @@ Feel free to contact me on these social networks.
   <div>
     <p style="margin-bottom:0">
      
-  ![devvsakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib&show_icons=true&theme=radical)
+  ![devvsakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
    
    </p>
   </div>
 </td><td>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvsakib&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvsakib&show_icons=true&theme=react&include_all_commit=true&count_private=true&hide_border=true&bg_color=0D1117"/> 
   
   </td>
  <tr>
-  <td colspan="2" style='text-align="center"'>
+  <td colspan="2" align="center">
        
 ### <p align="center">Top Language I Use </p>
    
-   <div align="center">
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvsakib&layout=compact)  
-  
-   </div>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvsakib&layout=compact&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) 
   
   </td>
  </tr>
