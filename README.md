@@ -120,9 +120,10 @@ Feel free to contact me on these social networks.
 <br>
 
 
-## Blogs
+## Latest Blogs
 <div>
 
+0. [Getting Started with Open Source! Full guide and Demo](https://devvsakib.hashnode.dev/getting-started-with-open-source-full-guide-and-demo)
 1. [Tips: How to get last element of an array in javascipt](https://dev.to/devvsakib/tips-how-to-get-last-element-of-an-array-in-javascipt-3k2j)
 2. [Top 10 React Interview Question!](https://dev.to/devvsakib/top-10-react-interview-question--584n)
 3. [Fetch API in JavaScript](https://dev.to/devvsakib/fetch-api-in-javascript-54o6)
