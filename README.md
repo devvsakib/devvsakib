@@ -47,7 +47,7 @@ Feel free to contact me on these social networks.
  
 <br> 
  
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,nextjs,firebase,webpack,java,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github&perline=15) 
+![My Skills](https://skillicons.dev/icons?i=js,java,react,ts,html,css,tailwind,materialui,redux,nextjs,firebase,webpack,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github&perline=15) 
 
 </td><td align="center" valign="top" width="25%">
  
