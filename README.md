@@ -1,7 +1,7 @@
 <!-- # <p align="center">***OFFLINE, GRADUATION TIME. Wish Me LUCK***</p> 2022 12 17 -->
 <table><tr><td valign="top" width="70%">
 
-## 👋 I’m Sakib Ahmed
+## <img width="25px" src="./devvsakib-hello.gif" alt="Hello Dev!"> I’m Sakib Ahmed
 
 - 💻 I'm a Frontend Developer
 - 🆕 Exploring new technologies and developing software solutions and quick hacks.
