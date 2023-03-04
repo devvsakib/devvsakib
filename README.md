@@ -6,7 +6,7 @@
 - 💻 I'm a Frontend Developer
 - 🆕 Exploring new technologies and developing software solutions and quick hacks.
 - 🧩 Open Source
-- 📁 Follow me to get Opensource projects.
+- 📁 Follow me to get Opensource Tips,Projects.
 - 📫 devvsakib@gmail.com
 <div align="center" display="flex"> 
 
