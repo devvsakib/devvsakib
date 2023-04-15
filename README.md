@@ -19,10 +19,10 @@
 ### 💬 Let's connect
 Let's grow network together!
 
- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devvsakib) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvsakib/) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@devvsakib)
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-yellow?logo=twitter&logoColor=dark)](https://twitter.com/devvsakib) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-yellow?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/devvsakib/) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-yellow?logo=hashnode&logoColor=blue)](https://hashnode.com/@devvsakib)
 
 ![](https://komarev.com/ghpvc/?username=devvsakib&style=flat-square&color=yellow)
-![GitHub User's stars](https://img.shields.io/github/stars/devvsakib?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/devvsakib?label=%E2%AD%90GitHub%20stars&style=flat-square&color=yellow)
   
   </p>  
   
