@@ -74,7 +74,7 @@ Let's grow network together!
   <div>
     <p style="margin-bottom:0">
      
-  ![devvsakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+  ![devvsakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvsakib&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117)
    
    </p>
   </div>
