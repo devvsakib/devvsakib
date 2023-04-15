@@ -79,8 +79,10 @@ Let's grow network together!
    </p>
   </div>
 </td><td>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvsakib&show_icons=true&theme=react&include_all_commit=true&count_private=true&hide_border=true&bg_color=0D1117"/> 
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=devvsakib&theme=yellowdark)](https://git.io/streak-stats)
+ 
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvsakib&show_icons=true&theme=react&include_all_commit=true&count_private=true&hide_border=true&bg_color=0D1117"/>  -->
   
   </td>
  <tr>
