@@ -53,7 +53,7 @@ Let's grow network together!
  
 <br> 
  
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,html,css,tailwind,materialui,redux,nextjs,firebase,mongodb,vscode,bash,git,github&perline=15) 
+![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,materialui,redux,nextjs,firebase,mongodb,vscode,bash,git,github&perline=15) 
 
 </td><td align="center" valign="top" width="25%">
  
