@@ -111,7 +111,7 @@ DISCORD - [JOIN](https://discord.com/invite/6XRTeHRxWV) <br>
 
  <br>
 
-[![@devvsakib's Holopin board](https://holopin.me/devvsakib)](https://holopin.io/@devvsakib)
+[![An image of @devvsakib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devvsakib)](https://holopin.io/@devvsakib)
  
  <br>
 <!-- 
